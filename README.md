@@ -12,6 +12,14 @@
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charans28-lang/charans28-lang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charans28-lang/charans28-lang/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/charans28-lang/charans28-lang/output/github-snake.svg" />
+</picture>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/charan-s28/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
